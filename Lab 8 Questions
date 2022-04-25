@@ -1,0 +1,1 @@
+The warning message means that a property was refrenced, but it was never given a value. This means that Vue is trying to display data it doesn't have. Until the propeperty is defined with a value, the space it is meant to appear on the page will simply be left blank. This problem can be fixed by giving the property a value to be displayed.
